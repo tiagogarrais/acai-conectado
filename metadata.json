@@ -1,0 +1,7 @@
+{
+  "name": "Açaí Connect",
+  "description": "An application for açaí stores to register and sell their products, and for customers to find and customize their açaí bowls from local shops.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
